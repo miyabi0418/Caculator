@@ -25,7 +25,8 @@
     padding: 30px;
 }
 
-#result{
+#box #result{
     grid-column: 1 / 5;
-    padding: 50px;
+    padding: 40px;
+    font-size: 35px;
 }
